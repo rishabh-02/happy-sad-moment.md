@@ -1,4 +1,4 @@
-<h1 align="center"> The Best Happy Moment In My Life </h1>
+<h1 align="center"> The Best Happy Moment In My Life</h1>
 
 
 <br>
@@ -16,7 +16,7 @@ I was unaware of the world but that happiness is the biggest happiness of my lif
 <br>
 
 <p align="center">
-My father somehow got me into polytechnic with computer science. After that he arranged for some money and send me to Delhi for interview. But after coming here, it was found that 50% of the companies wanted B. Tech holders and the remaining 50% of them should have experience, neither did I have experience, neither did I have a degree nor did I have experience. So my company did not get a job and I came home disappointed. To complete the degree. but to completed the degree, I could not do B.Tech due to lack of funding and my dream of becoming a software engineer had gone far away from me because now it was said that neither you have technical degree and since 2015 it has been a gap of 4 years. That was the worst time of my life, which I can never forget. I used to pray while sleeping with God that God would be such a company that does not see the degree and experience. Which only hires your talent base, not by looking at the degree! and so far I have only seen a company that is keenable to hire an employee without a degree view. for this, I would also like to thank the KeenAble and Varad Sir. </p>
+My father somehow got me into polytechnic with computer science. After that he arranged for some money and send me to Delhi for interview. But after coming here, it was found that 50% of the companies wanted B. Tech holders and the remaining 50% of them should have experience, neither did I have experience, neither did I have a degree nor did I have experience. Because of which I did not get a job and I came home disappointed. To complete the degree. but to completed the degree, I could not do B.Tech due to lack of funding and my dream of becoming a software engineer had gone far away from me because now it was said that neither you have technical degree and since 2015 it has been a gap of 4 years. That was the worst time of my life, which I can never forget. I used to pray to God while I was sleep that God would be such a company that does not see the degree and experience. Which only hires your talent base, not by looking at the degree! and so far I have only seen a company that is keenable to hire an employee without a degree view. for this, I would also like to thank the KeenAble and Varad Sir. </p>
 
 
 
